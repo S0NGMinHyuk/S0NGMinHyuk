@@ -18,10 +18,12 @@
   
 ## Exprience
 - University MakeUs Challenge SSU 7th Server Developer - Spring Boot (2024.09 ~ 2024.02)
-- University MakeUs Challenge SSU 8th Leader (2025.03 ~)
+- University MakeUs Challenge SSU 8th Leader (2025.03 ~ 2025.08)
 
 ## Certification
-- ADsP 데이터분석 준전문가 (2023.06.16)
+- ADsP 데이터분석 준전문가  (2023.06.16)
+- SQLD SQL전문가  (2025.04.05)
+- 정보처리기사  (2025.09.12)
 
 <br />
 
