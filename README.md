@@ -43,6 +43,6 @@
 
 ## 🔎 Contact Me 
 <p align="left">
-    <a href=https://www.notion.so/s0ng/14fad98b317f4456808a90cdb893b5d9> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/s0ng/14fad98b317f4456808a90cdb893b5d9"> </a>&nbsp
+    <!-- <a href=https://www.notion.so/s0ng/14fad98b317f4456808a90cdb893b5d9> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/s0ng/14fad98b317f4456808a90cdb893b5d9"> </a>&nbsp -->
     <a href=https://bibam-h.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&lin=https://bibam-h.tistory.com/"> </a>
 </p>
