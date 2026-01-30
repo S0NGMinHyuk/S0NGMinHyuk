@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Minhyuk%20Song&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=32&desc=%20&descSize=25&descAlign=75&descAlignY=55)
 
 ## 안녕하세요
-- Soongsil Univ CSE 20
+- Soongsil Univ CSE 20 GPA 4.24/4.5
 - 꾸준히 성장하는 개발자입니다.
 
 ## 📚 Tech Stack 
@@ -19,6 +19,9 @@
 ## Exprience
 - University MakeUs Challenge SSU 7th Server Developer - Spring Boot (2024.09 ~ 2024.02)
 - University MakeUs Challenge SSU 8th Leader (2025.03 ~ 2025.08)
+- 우리FIS 아카데미 6기 클라우드 서비스 개발 트랙 (2025.12.30 ~ 2026.06.25)
+
+<br />
 
 ## Certification
 - ADsP 데이터분석 준전문가  (2023.06.16)
